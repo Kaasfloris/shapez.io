@@ -944,7 +944,7 @@ settings:
                 slow: Langzaam
                 regular: Standaard
                 fast: Snel
-                super_fast: Super snel
+                super_fast: Supersnel
                 extremely_fast: Extreem snel
         enableTunnelSmartplace:
             title: Slimme Tunnels
@@ -1265,23 +1265,23 @@ puzzleMenu:
             Constante Producenten niet rechtstreeks aan je Ontvangers leveren.
     difficulties:
         easy: Makkelijk
-        medium: Medium
+        medium: Gemiddeld
         hard: Moeilijk
-        unknown: Unrated
+        unknown: Onbeoordeeld
     search:
-        action: Search
-        placeholder: Enter a puzzle or author name
-        includeCompleted: Include Completed
+        action: Zoek
+        placeholder: Vul een puzzel of een bedenker in
+        includeCompleted: Voltooid!
         difficulties:
-            any: Any Difficulty
-            easy: Easy
-            medium: Medium
-            hard: Hard
+            any: Eender
+            easy: Makkelijk
+            medium: Gemiddeld
+            hard: Moeilijk
         durations:
-            any: Any Duration
-            short: Short (< 2 min)
-            medium: Normal
-            long: Long (> 10 min)
+            any: Eender
+            short: Kort (< 2 min)
+            medium: Normaal
+            long: Lang (> 10 min)
 backendErrors:
     ratelimit: Je voert je handelingen te vaak uit. Wacht alstublieft even.
     invalid-api-key: Kan niet communiceren met de servers, probeer alstublieft het
